@@ -1,5 +1,5 @@
 /**
- * 脚本地址: https://gitee.com/linchaokun/qinglong/raw/master/khz.js
+ * 脚本地址: ql raw https://js.dayplus.xyz/https://raw.githubusercontent.com/hualuoyixiao/qinglong/master/khz.js
  
  * 垦荒者
  * 下载地址: http://ken.kenhz.cn/?id=27310807
