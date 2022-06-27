@@ -1,20 +1,20 @@
 /**
  * By：花落分享
  * 
- * 脚本一天执行一次就好
+ * 脚本每20分钟执行一次
  * 
- * cron 25 9 * * *
+ * cron 0 0/20 * * * ?
  *
- * 注册地址：
- * http://wanmei.rrsee.cn/ringlike/ringlike/ringlike/ringlikecode/wsCTeDZa
+ * 注册地址，微信打开
+ * http://liverpools.cn/user/huahua.html?mid=4U4WDSEXD&1656338612724
  * 
  * ========= 抓包 =========
- * 抓取域名：http://wanmei.rrsee.cn
- * 请求体：user_id=888888&mobile=18888888888&token=xxxxxxxxxx
+ * 抓取域名：http://u.wyexin.cn
+ * 请求体：un,token
  
  * ========= 青龙 =========
- * 变量名: wmsjToken
- * 变量值：user_id=888888&mobile=18888888888&token=xxxxxxxxxx
+ * 变量名: hhydToken
+ * 变量值：un&token
  * 多个账号用 @分割
  */
 const jsname = '花花阅读'
